@@ -1,0 +1,17 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+backend_python/venv/
+backend_python/.env
+backend_python/uploads/*
+!backend_python/uploads/.gitkeep
+backend_python/data/history.json
+backend_python/data/schedules.json
+.codex-run/
+dist/
+uploads/*
+!uploads/.gitkeep
+__pycache__/
+*.pyc
+*.log
+.DS_Store
